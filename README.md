@@ -1,7 +1,7 @@
 # Yummylog
 
 Please find the website on Heroku:
-[https://yummylog.herokuapp.com/](https://yummylog.herokuapp.com/)
+[https://yummylog.herokuapp.com/](https://yummylog.herokuapp.com/).
 
 ## Project Goals
 
